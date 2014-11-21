@@ -1,5 +1,5 @@
 ﻿body {
-    background-color:#666;
+    background-color:grey;
     color: #000305;
     font-family:Arial, 'Lucida Sans Unicode';
     font-size:87.5%;
@@ -30,4 +30,30 @@ a:hover, a:active{
     height: auto;
     margin: 2% 0;
 
+}
+#one, #two, #three
+{
+color:blue;
+text-align:center;
+margin:0 auto;
+}
+#one
+{
+background-color:green;
+width:600px;
+height:600px;
+float:left;
+}
+#two
+{
+background-color:white;
+width:500px;
+height:500px
+}
+#three
+{
+background-color:orange;
+width:400px;
+height:300px;
+margin:0 auto;
 }
